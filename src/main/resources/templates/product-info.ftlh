@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>BUYSELL</h1>
-<hr>Подробная информация</h4>
+<hr>Подробная информация</h2><br>
 <b>Название товара: </b>${product.title}<br>
 <b>Описание товара: </b>${product.description}<br>
 <b>Цена: </b>${product.price}<br>
