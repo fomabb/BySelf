@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/html">
 <head>
-    <title>BUYSELF</title>
+    <title>BUYSELL</title>
 </head>
 <body>
-<h1>BUYSELF</h1>
+<h1>BUYSELL</h1>
 <hr>Подробная информация</h4>
 <b>Название товара: </b>${product.title}<br>
 <b>Описание товара: </b>${product.description}<br>
